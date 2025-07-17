@@ -399,10 +399,6 @@ function closeModal() {
 		}
 
 
-
-</script>
-
-<script>
   let imageModalIndex = 0;
   let currentImageList = [];
   let imageModalTimeout;
