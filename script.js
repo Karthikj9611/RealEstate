@@ -508,3 +508,8 @@ function showFullImages(button) {
     closeImageModal();
   }, 3000);
 }
+
+
+document.addEventListener("contextmenu", function(e){
+e.preventDefault();
+});
